@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="03-jsp-nine-object"
+  id="myeclipse.1489556992736"
+  context-root="/03-jsp-nine-object"
+  j2ee-spec="5.0"
+  archive="03-jsp-nine-object.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

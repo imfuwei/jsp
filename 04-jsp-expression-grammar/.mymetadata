@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="04-jsp-expression-grammar"
+  id="myeclipse.1489558956392"
+  context-root="/04-jsp-expression-grammar"
+  j2ee-spec="5.0"
+  archive="04-jsp-expression-grammar.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
